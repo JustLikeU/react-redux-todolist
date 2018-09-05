@@ -3,3 +3,17 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.todo {
+  width: 500px;
+  margin: 100px auto 0;
+}
+
+.hd {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.hd button {
+  margin-left: 20px;
+}
